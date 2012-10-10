@@ -1,0 +1,9 @@
+<div>Name: {{ name }}</div>
+<div>Population: {{ population }}</div>
+<div>Date: {{ last_census.date }}</div>
+{{ #famous_for }}
+    <div>Famous for:{{ . }}</div>
+{{/famous_for}}
+<div>Mayor: {{ mayor.name }}</div>
+<div>Party: {{ mayor.party }}</div>
+
