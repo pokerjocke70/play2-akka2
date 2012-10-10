@@ -1,6 +1,7 @@
 This is your new Play 2.0 application
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+Dummy project.
 
-This file was modified by IntelliJ IDEA (Leda) IU-122.519 for binding GitHub repository
+
+Just playing around with play2, akka2, config, Riak, mongodb and handlebars
